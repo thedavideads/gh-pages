@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>David Eads</title>
+    <link href="https://thedavideads.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://thedavideads.github.io/gh-pages" />
+    <updated>2025-01-15T14:58:17-05:00</updated>
+    <author>
+        <name>David Eads</name>
+    </author>
+    <id>https://thedavideads.github.io/gh-pages</id>
+
+    <entry>
+        <title>first post!</title>
+        <author>
+            <name>David Eads</name>
+        </author>
+        <link href="https://thedavideads.github.io/gh-pages/first-post.html"/>
+        <id>https://thedavideads.github.io/gh-pages/first-post.html</id>
+
+        <updated>2025-01-15T14:58:17-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This is my first post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    This is my first post.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
