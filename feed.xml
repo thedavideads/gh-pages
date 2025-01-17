@@ -411,27 +411,4 @@
             ]]>
         </content>
     </entry>
-    <entry>
-        <title>first post!</title>
-        <author>
-            <name>David Eads</name>
-        </author>
-        <link href="https://thedavideads.github.io/gh-pages/first-post.html"/>
-        <id>https://thedavideads.github.io/gh-pages/first-post.html</id>
-
-        <updated>2025-01-15T14:58:17-05:00</updated>
-            <summary>
-                <![CDATA[
-                    This is my first post.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    This is my first post.
-  </p>
-            ]]>
-        </content>
-    </entry>
 </feed>
